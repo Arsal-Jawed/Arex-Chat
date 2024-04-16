@@ -1,5 +1,6 @@
 # Arex-Chat
 # <h2>Tools & Technologies: React JS, Node JS, Express JS, MySQL, Socket IO, Email JS, VS Code, XAMPP</h2>
+![arex-char-start](https://github.com/Arsal-Jawed/Arex-Chat/blob/main/ArexChatStart.gif)
 ![arex-chat-pic](https://github.com/Arsal-Jawed/Arex-Chat/blob/main/1.PNG)
 ![arex-chat-pic](https://github.com/Arsal-Jawed/Arex-Chat/blob/main/2.PNG)
 ![arex-chat-pic](https://github.com/Arsal-Jawed/Arex-Chat/blob/main/3.PNG)
